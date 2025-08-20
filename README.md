@@ -1,2 +1,6 @@
-# Boteco_Tech
-Fizemos a gestão de um projeto da nossa empresa, que basicamente era um software voltado para bares/botecos. Nesse projeto fizemos uma agenda com todas as entregas previstas, toda a nossa parte de custos inclusive Fluxo de caixa, Milestones, Scrum e Product Backlog.
+# Boteco_Tech 🍺👩‍💻
+No desenvolvimento deste projeto, realizamos uma gestão completa contemplando todas as etapas essenciais. Foi elaborada uma agenda detalhada com as entregas previstas, além do planejamento e controle dos custos, incluindo o fluxo de caixa do projeto.
+
+Também estruturamos os principais marcos (milestones), aplicamos a metodologia ágil Scrum e organizamos o Product Backlog, garantindo uma visão clara das prioridades e funcionalidades a serem desenvolvidas.
+
+Essa abordagem possibilitou uma gestão eficiente, com foco na organização, no acompanhamento e no alinhamento contínuo das entregas com os objetivos do projeto.
